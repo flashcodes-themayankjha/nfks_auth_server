@@ -27,6 +27,7 @@ Your existing frontend code stays almost the same.
 
 Example:
 
+```
 Consent → Redirect
 window.location.href =
   `http://localhost:4000/authorize?` +
@@ -40,4 +41,4 @@ window.location.href =
 
 Callback → Token exchange
 POST http://localhost:4000/token
-
+```
