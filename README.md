@@ -2,6 +2,7 @@
 
 
 ## 📁 Backend folder structure (exact)
+```
 nfks-auth-server/
 ├── src/
 │   ├── auth/
@@ -18,6 +19,7 @@ nfks-auth-server/
 ├── .env
 ├── package.json
 └── tsconfig.json
+```
 
 ## 🔗 How frontend talks to backend
 
